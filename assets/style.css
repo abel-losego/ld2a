@@ -1,0 +1,19 @@
+
+.number {
+    width : 35px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input {
+    background-color: rgb(233, 166, 142);
+    height: 25px;
+}
+.class {
+    margin : auto;
+}
+p {
+    font-size : 25px;
+}
